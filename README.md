@@ -12,6 +12,6 @@
 
 ##
 
-<div> 
- ![Snake animation](https://github.com/rafatokairin/rafatokairin/blob/output/github-contribution-grid-snake.svg)
+<div>
+   ![Snake animation](https://github.com/rafatokairin/rafatokairin/blob/output/github-contribution-grid-snake.svg)
 </div>

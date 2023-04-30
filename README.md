@@ -18,6 +18,6 @@
 
 <div>
   
-  ![Snake animation](https://github.com/rafatokairin/rafatokairin/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/rafatokairin/rafatokairin/blob/output/github-contribution-grid-snake.svg" height="150" alt="snake"/>
   
 </div>

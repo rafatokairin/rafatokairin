@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafatokairin&show_icons=true&count_private=true&title_color=8f008f&text_color=c9d1d9&icon_color=8f008f&border_color=c9d1d9&bg_color=161b22" height="180" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafatokairin&layout=compact&show_icons=true&count_private=true&title_color=8f008f&text_color=c9d1d9&icon_color=8f008f&border_color=c9d1d9&bg_color=161b22" height="180" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafatokairin&show_icons=true&count_private=true&title_color=8f008f&text_color=c9d1d9&icon_color=8f008f&border_color=c9d1d9&bg_color=161b22" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafatokairin&layout=compact&show_icons=true&count_private=true&title_color=8f008f&text_color=c9d1d9&icon_color=8f008f&border_color=c9d1d9&bg_color=161b22" height="160" alt="languages graph"/>
 </div>
 
 ###
@@ -17,5 +17,5 @@
 ##
 
 <div align="center">
-  <img src="https://github.com/rafatokairin/rafatokairin/blob/output/github-contribution-grid-snake.svg" height="180" alt="snake"/>
+  <img src="https://github.com/rafatokairin/rafatokairin/blob/output/github-contribution-grid-snake.svg" height="160" alt="snake"/>
 </div>

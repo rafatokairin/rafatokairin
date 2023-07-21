@@ -13,9 +13,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="52" alt="css3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="52" alt="js"/>
 </div>
-
-##
-
-<div align="center">
-  <img src="https://github.com/rafatokairin/rafatokairin/blob/output/github-contribution-grid-snake.svg" height="170" alt="snake"/>
-</div>
